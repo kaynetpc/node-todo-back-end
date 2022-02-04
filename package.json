@@ -1,0 +1,19 @@
+{
+  "name": "todo-back-end",
+  "version": "1.0.0",
+  "description": "complete crud app using node mogoDB, mocha and joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaynetpc/node-todo-back-end.git"
+  },
+  "author": "kayode akinwumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaynetpc/node-todo-back-end/issues"
+  },
+  "homepage": "https://github.com/kaynetpc/node-todo-back-end#readme"
+}
